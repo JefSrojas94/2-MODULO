@@ -1,5 +1,5 @@
 const alumnosMali=["Juan","Jose","Sebastian","Jeffry","Ximena","David","Camilo","Mathias","Felipe",];
-const alumnoSpan= document.querySelector('#alumno');
+const alumnoSpan= document.querySelector('#alumnos');
 let index=0;
 
 setInterval(saludar,1500);
